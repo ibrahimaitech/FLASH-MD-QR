@@ -1,6 +1,6 @@
 {
     "name": "FLASH-MD-QR",
-    "description": "FLASH-MD, Created by France King",
+    "description": "FLASH-MD, A simple WhatsApp user bot Created by France King",
     "logo": "https://telegra.ph/file/cc5e91a6c7e2fd60fc75f.jpg",
     "repository": "https://github.com/franceking1/FLASH-MD-QR",
     "keywords": ["whatsappbot", "France King", "FLASH MD", "FRANCE KING 𝙈𝘿", "FLASHMdWhatsaooBot", "FLASHMDWaBot","𝙆𝙄𝙉𝙂","𝙆𝙄𝙉𝙂 FRANCE Md Whatsapp Bot","multi device"],
@@ -14,7 +14,21 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╭════⊷║ *『 FLASH-MD 』*║ _You Have Complete the First Step to Deploy a Whatsapp Bot._╰═════════════════⊷╭════⊷║  『•••  𝗙𝗼𝗿 𝗛𝗲𝗹𝗽, VISIT •••』║❒ *IG:* _instagram.com/@france.king1_║❒ *Owner:* _https://wa.me/254751284190_║❒ *Repo:* _https://github.com/franceking1/Flash-Md_╰═════════════════⊷",
+        "value": "*🚨 CONGRATULATIONS 🎊*
+
+*QR HAS BEEN SCANNED SUCCESSFULY* ✅
+
+*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌀
+║❒https://github.com/franceking1/Flash-Md 
+
+*JOIN OUR WhatsApp Gʀᴏᴜᴘ*
+║❒https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1
+
+*FOLLOW THE DEVELOPER* 🪄 
+║❒ https://instagram.com/france.king1 
+
+
+       *𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*",
         "required": false 
       }
     }   
