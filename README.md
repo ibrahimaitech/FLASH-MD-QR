@@ -79,5 +79,5 @@ RENDER PROCESS:
 
 
 
-## MADE WITH ❤️ BY:
-[![GiftedTech](https://telegra.ph/file/54efddccf41281ad7ec51.jpg)](https://github.com/Giftedmaurice)
+## MADE WITH 🐐 BY:
+[![FranceKing](https://telegra.ph/file/cc5e91a6c7e2fd60fc75f.jpg)](https://github.com/franceking1/FLASH-MD-QR)
