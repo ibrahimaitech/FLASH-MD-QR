@@ -14,21 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "*🚨 CONGRATULATIONS 🎊*
-
-*QR HAS BEEN SCANNED SUCCESSFULY* ✅
-
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌀
-║❒https://github.com/franceking1/Flash-Md 
-
-*JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-║❒https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1
-
-*FOLLOW THE DEVELOPER* 🪄 
-║❒ https://instagram.com/france.king1 
-
-
-       *𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*",
+        "value": "Thanks for Choosing FLASH-MD" ,
         "required": false 
       }
     }   
