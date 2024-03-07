@@ -1,9 +1,9 @@
 {
-    "name": "gifted-md",
-    "description": "I am 𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t In case of Any Problem : www.youtube.com/giftedtechnexus",
-    "logo": "https://telegra.ph/file/748df8b3b52de9d1d25da.jpg",
-    "repository": "https://github.com/Giftedmaurice/gifted-md-qr",
-    "keywords": ["whatsappbot", "𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈", "𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿", "𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿", "𝙆𝙄𝙉𝙂MdWhatsaooBot", "𝙆𝙄𝙉𝙂𝙄𝘽𝙍𝘼𝙃𝙄𝙈WaBot","𝙆𝙄𝙉𝙂","𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 Md Whatsapp Bot","multi device"],
+    "name": "FLASH-MD-QR",
+    "description": "FLASH-MD, Created by France King",
+    "logo": "https://telegra.ph/file/cc5e91a6c7e2fd60fc75f.jpg",
+    "repository": "https://github.com/franceking1/FLASH-MD-QR",
+    "keywords": ["whatsappbot", "France King", "FLASH MD", "FRANCE KING 𝙈𝘿", "FLASHMdWhatsaooBot", "FLASHMDWaBot","𝙆𝙄𝙉𝙂","𝙆𝙄𝙉𝙂 FRANCE Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╔════◇║ *『 𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿 𝗧𝗛𝗘 𝗟𝗢𝗬𝗔𝗟 𝗕𝗢𝗧 』*║ _You Have Complete the First Step to Deploy a Whatsapp Bot._╚════════════════════════╝╔═════◇║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』║❒ *Ytube:* _youtube.com/@giftedtechnexus_║❒ *Owner:* _+254710772666_║❒ *Repo:* _https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT_╚════════════════════════╝",
+        "value": "╭════⊷║ *『 FLASH-MD 』*║ _You Have Complete the First Step to Deploy a Whatsapp Bot._╰═════════════════⊷╭════⊷║  『•••  𝗙𝗼𝗿 𝗛𝗲𝗹𝗽, VISIT •••』║❒ *IG:* _instagram.com/@france.king1_║❒ *Owner:* _https://wa.me/254751284190_║❒ *Repo:* _https://github.com/franceking1/Flash-Md_╰═════════════════⊷",
         "required": false 
       }
     }   
