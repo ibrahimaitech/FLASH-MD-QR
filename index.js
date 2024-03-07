@@ -14,17 +14,17 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 *🚨 CONGRATULATIONS 🎊*
+
 *QR HAS BEEN SCANNED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌀
-║❒ https://github.com/franceking1/Flash-Md 
+║❒https://github.com/franceking1/Flash-Md 
 
-*Join OUR WhatsApp Gʀᴏᴜᴘ*
-║❒ https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1
+*JOIN OUR WhatsApp Gʀᴏᴜᴘ*
+║❒https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1
 
-*DEVELOPER* 🪄 
+*FOLLOW THE DEVELOPER* 🪄 
 ║❒ https://instagram.com/france.king1 
-
 
 
        *𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*
