@@ -13,16 +13,16 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-╔════◇
-║ *『 OK YOU HAVE SUCCESSFULLY SCANNED YOUR SESSION 』*
+╭════⊷
+║ *『 Congrats...YOU HAVE SUCCESSFULLY SCANNED YOUR SESSION 』*
 ║ _You Have Completed the First Step to Deploy Whatsapp Bot._
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ Owner name KIMG IBRAHIM
-║ *Owner:* +254710772666
+╰═════════════════⊷
+╭════⊷
+║  『••• 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽, Visit•••』
+║ *IG* : _www.instagram.com/france.king1_
+║ *App* : https://wa.me/254751284190
 ║ 
-╚════════════════════════╝
+╰═════════════════⊷
 `
 
 
