@@ -1,5 +1,5 @@
 {
-    "name": "gifted-md-qr",
+    "name": "FLASH-MD-QR",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web Qr Scanner.",
     "main": "index.js",
@@ -7,8 +7,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node index.js"
     },
-    "keywords": ["baileysQr","MdLogin", "Gifted-Md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
-    "author": "GiftedTech",
+    "keywords": ["baileysQr","MdLogin", "Flash-Md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
+    "author": "France King",
     "license": "MIT",
     "dependencies": {
       "@hapi/boom": "^10.0.1",
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.dev/Giftedmaurice/gifted-md-qr.git"
+        "url": "git+https://github.dev/franceking1/FLASH-MD-QR.git"
     }
   }
   
