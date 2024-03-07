@@ -3,13 +3,13 @@
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/Giftedmaurice/gifted-md-qr/fork" target="_blank">
+  <a aria-label="FORK" href="https://github.com/franceking1/FLASH-MD-QR/fork" target="_blank">
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Gifted_Md is free to use" href="https://youtube.com/@giftedtechnexus" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="FLASH-MD is free to use" href="https://youtube.com/@franceking1" target="_blank">
+    <img alt="FranceKing" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="GiftedTech :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="FLASH-MD :: Visitor's Count" /></p>
 
      
   </body>
@@ -18,10 +18,8 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/Giftedmaurice/gifted-md-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
-2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Giftedmaurice/gifted-md-qr).***
-3.  ***Deploy on [`REPLIT`](https://replit.com/github/Giftedmaurice/gifted-md-qr).***
-4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
+1.  ***Click [`FORK`](https://github.com/franceking1/FLASH-MD-QR/fork) and `Star ⭐ Repository` FOR COURAGE.***
+2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/franceking1/FLASH-MD-QR).***
 ```
 RENDER PROCESS:
     1: Click "NEW".
