@@ -13,16 +13,21 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-╭════⊷
-║ *『 Congrats...YOU HAVE SUCCESSFULLY SCANNED YOUR SESSION 』*
-║ _You Have Completed the First Step to Deploy Whatsapp Bot._
-╰═════════════════⊷
-╭════⊷
-║  『••• 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽, Visit•••』
-║ *IG* : _www.instagram.com/france.king1_
-║ *App* : https://wa.me/254751284190
-║ 
-╰═════════════════⊷
+*🚨 CONGRATULATIONS 🎊*
+*QR HAS BEEN SCANNED SUCCESSFULY* ✅
+
+*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌀
+║❒ https://github.com/franceking1/Flash-Md 
+
+*Join OUR WhatsApp Gʀᴏᴜᴘ*
+║❒ https://chat.whatsapp.com/E39qMdWBujOHGVgWBY3XW1
+
+*DEVELOPER* 🪄 
+║❒ https://instagram.com/france.king1 
+
+
+
+       *𝐅𝐋𝐀𝐒𝐇-𝐌𝐃*
 `
 
 
